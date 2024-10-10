@@ -1,0 +1,103 @@
+Here is a list of common HTML tags with short descriptions of their uses:
+
+Basic Structure Tags:
+<!DOCTYPE html>: Declares the document type and version of HTML.
+<html>: The root element that contains all other HTML elements.
+<head>: Contains metadata, links to scripts, and stylesheets.
+<title>: Sets the title of the document, shown in the browser tab.
+<body>: Contains the visible content of the webpage.
+
+
+Text and Formatting Tags:
+<h1> to <h6>: Headings, with <h1> being the most important and <h6> the least.
+<p>: Defines a paragraph of text.
+<b>: Makes text bold without emphasis.
+<strong>: Adds strong emphasis, usually bold.
+<i>: Italicizes text without emphasis.
+<em>: Adds emphasized text, usually italic.
+<u>: Underlines text.
+<br>: Inserts a line break.
+<hr>: Creates a horizontal rule, often used to separate content.
+<blockquote>: Used for long quotations.
+<mark>: Highlights or marks text.
+<small>: Reduces the font size of the text.
+<sup>: Creates superscript text (e.g., for footnotes).
+<sub>: Creates subscript text (e.g., for chemical formulas).
+<pre>: Displays preformatted text with spaces and line breaks intact.
+
+
+Links and Media Tags:
+<a>: Defines a hyperlink to link one page to another.
+<img>: Embeds an image.
+<audio>: Embeds audio content.
+<video>: Embeds video content.
+<source>: Specifies multiple media sources for <video> and <audio> elements.
+<iframe>: Embeds another HTML page inside the current one.
+<embed>: Embeds external content (such as PDFs or media players).
+
+
+List Tags:
+<ul>: Defines an unordered (bulleted) list.
+<ol>: Defines an ordered (numbered) list.
+<li>: Defines a list item in an ordered or unordered list.
+<dl>: Defines a description list.
+<dt>: Defines a term in a description list.
+<dd>: Defines a description or value in a description list.
+
+
+Table Tags:
+<table>: Defines a table.
+<tr>: Defines a row in a table.
+<td>: Defines a cell in a table row.
+<th>: Defines a header cell in a table.
+<thead>: Groups the header content in a table.
+<tbody>: Groups the body content in a table.
+<tfoot>: Groups the footer content in a table.
+<caption>: Adds a caption to a table.
+
+
+Form Tags:
+<form>: Defines a form for user input.
+<input>: Defines an input field where users can enter data.
+<button>: Defines a clickable button.
+<select>: Defines a dropdown list.
+<option>: Defines an option within a dropdown list.
+<textarea>: Defines a multiline text input field.
+<label>: Associates a label with a form control.
+<fieldset>: Groups related elements in a form.
+<legend>: Defines a caption for the <fieldset> element.
+
+
+Semantic and Layout Tags:
+<div>: A generic container for grouping content, mainly used for layout purposes.
+<span>: A generic inline container for text or other inline elements.
+<header>: Defines the header of a section or page.
+<footer>: Defines the footer of a section or page.
+<main>: Specifies the main content of the document.
+<section>: Defines a section in the document.
+<article>: Defines an independent, self-contained content piece.
+<aside>: Defines content that is tangentially related to the main content.
+<nav>: Defines a navigation block for links.
+
+
+Interactive Tags:
+<details>: Creates a widget that the user can open or close.
+<summary>: Defines a summary for the <details> element.
+<dialog>: Defines a dialog box or window.
+<progress>: Displays progress of a task.
+<meter>: Displays a scalar measurement within a known range.
+Meta and Script Tags:
+
+
+<meta>: Defines metadata about an HTML document.
+<link>: Links an external resource (like stylesheets).
+<style>: Embeds CSS styles in the document.
+<script>: Embeds or links to JavaScript code.
+
+
+Document Structure Tags:
+<section>: Represents a standalone section that can exist independently from the rest of the document.
+<article>: Used for independent, self-contained content.
+<aside>: For content indirectly related to the main content.
+
+These tags are the building blocks of any HTML document, and understanding them helps in creating structured, accessible, and well-formatted web pages.
